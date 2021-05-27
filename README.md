@@ -45,5 +45,8 @@
  ![Visitor Count](https://profile-counter.glitch.me/{AbhinandanGoyal786}/count.svg)
 
 
+[twitter]: https://twitter.com/
+[linkedin]: https://www.linkedin.com/in/abhinandan-goyal-279752100/
+[Facebook]: https://www.facebook.com/abhinandan.goyal.98
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
