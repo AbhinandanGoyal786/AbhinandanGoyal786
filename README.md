@@ -29,6 +29,9 @@
  
 
 * My primary coding language: Python
+* PCEP (Certified Entry-Level Python Programmer Certification) Certified From Python Institue
+* PCAP (Certified Associate in Python Programming certification) Certified From Python Institue
+* Microsoft Technology Associate (MTA) Certification in Python (MTA 98-381) Certified From Microsoft
 * Earned Gold badge & 5 star at HackerRank in Python programming.
 * Passionate for learning & exploring new Tech. 
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
